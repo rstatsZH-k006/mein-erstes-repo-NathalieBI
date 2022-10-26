@@ -40,4 +40,5 @@ vignettes/*.pdf
 
 # Und auch noch diese Dateitypen ignorieren
 *.csv
+README.html
 
